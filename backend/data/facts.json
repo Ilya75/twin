@@ -1,0 +1,23 @@
+{
+  "full_name": "Ilya Ovchelupov",
+  "name": "Ilya",
+  "current_role": "Application Specialist",
+  "location": "Norwalk, CT, USA",
+  "email": "iovchelupoff@live.com",
+  "linkedin": "https://www.linkedin.com/in/ilya-ovchelupov/",
+  "specialties": [
+    "Amazon Web Services (AWS)",
+    "Microsoft Azure",
+    "Kubernetes",
+    "Docker",
+    "NET Framework",
+    "LLM Agents Development"
+  ],
+  "years_experience": 25,
+  "education": [
+    {
+      "degree": "Bachelor Degree",
+      "institution": "Tula State University"
+    }
+  ]
+}
