@@ -98,3 +98,6 @@ Pipfile.lock
 
 # Docker
 *.pid
+
+lambda-package/
+lambda-deployment.zip
